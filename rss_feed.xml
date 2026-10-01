@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>مدونتي الشخصية</title>
+    <link>https://www.example.com</link>
+    <description>آخر المقالات والأخبار التقنية</description>
+    <language>ar</language>
+    <lastBuildDate>Thu, 27 Aug 2026 16:00:00 +0100</lastBuildDate>
+    <item>
+        <title>المقال الأول: مقدمة في تقنية RSS</title>
+        <link>https://www.example.com/rss-intro</link>
+        <description>تعرف على مفهوم خلاصة RSS وكيفية الاستفادة منها لتتبع المحتوى.</description>
+        <pubDate>Thu, 27 Aug 2026 10:00:00 +0100</pubDate>
+    </item>
+    <item>
+        <title>المقال الثاني: الذكاء الاصطناعي في 2026</title>
+        <link>https://www.example.com/ai-2026</link>
+        <description>نظرة شاملة على تطورات أدوات الذكاء الاصطناعي وتطبيقاتها الحالية.</description>
+        <pubDate>Wed, 26 Aug 2026 15:30:00 +0100</pubDate>
+    </item>
+</channel>
+</rss>
